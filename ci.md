@@ -11,7 +11,7 @@
   
 5. Merge/rebase commits from master. Make tests pass on the merge result.  
 
-6. Deploy from the feature branch with a sneaky bug to production.
+6. Deploy from the feature branch without any sneaky-little-bugs to production.
 
 7. If everything is good in production for some time, merge changes to master. 
 
